@@ -88,8 +88,6 @@ function allNotice() {
         //   icon.classList.toggle("filled");
         // };
       }
-    } catch (error) {
-      console.log(error.message);
     }
   }
   allArticles();
